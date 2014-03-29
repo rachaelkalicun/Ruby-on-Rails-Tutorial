@@ -1,4 +1,4 @@
-RubyOnRailsTutorial::Application.routes.draw do
+DemoApp::Application.routes.draw do
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
